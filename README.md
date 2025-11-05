@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second year computer Science Student<br>Working toward Gen AI<br><br>
+I'm a computer Science Student<br>Working toward Gen AI<br><br>
 
 
 ## 🌐 Socials:
